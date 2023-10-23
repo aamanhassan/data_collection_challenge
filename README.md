@@ -134,4 +134,4 @@ The distance from peak to peak is roughly 1425-750, or 675 days. A year on Mars 
 df.to_csv('mars_data.csv',index=False)
 
 browser.quit()
-Atmospheric pressure is, on average, lowest in the sixth month and highest in the ninth.
+
